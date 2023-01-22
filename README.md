@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iagovilasboas&show_icons=true&count_private=true&hide_border=true&title_color=12a4d9&icon_color=d9138a&text_color=12a4d9&bg_color=322e2f" alt="Iago Vilas Boas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagovilasboas&layout=compact&hide_border=true&title_color=12a4d9&text_color=12a4d9&bg_color=322e2f" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagovilasboass&layout=compact&hide_border=true&title_color=12a4d9&text_color=12a4d9&bg_color=322e2f" />
 </div>
 
 
