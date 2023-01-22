@@ -14,3 +14,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iagovilasboas&show_icons=true&count_private=true&hide_border=true&title_color=12a4d9&icon_color=d9138a&text_color=12a4d9&bg_color=322e2f" alt="Iago Vilas Boas github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagovilasboas&layout=compact&hide_border=true&title_color=12a4d9&text_color=12a4d9&bg_color=322e2f" />
 </div>
+
+
+
+<div align="center"> 
+<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=12a4d9"</a>
+
+<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
