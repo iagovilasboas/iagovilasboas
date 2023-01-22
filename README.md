@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=12a4d9c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Iago+Vilas+Boas;I'm+28+years+;I'm+from+Brazil;studying+systems+development;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iagovilasboas&bg_color=000000&color=74c380&line=ffffff&point=668f6d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iagovilasboas&bg_color=322f30&color=1791be&line=af1973&point=1791be&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
